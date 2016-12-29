@@ -4,6 +4,10 @@
 The goal of this library is to allow your app to support Facebooks Rebound effect on all views, with circular reveal effect and also provides bottom bar with circular reveal effect.
 ram size depending animation play support.
 
+##Preview
+![gif](https://github.com/sgaikar1/ViewClickAnimation/blob/master/Screen/videotogif_2016.12.30_02.23.16.gif)
+
+
 
 ### Installation
 
