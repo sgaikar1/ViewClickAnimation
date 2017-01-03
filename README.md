@@ -32,6 +32,7 @@ compile project(':viewclickanimation')
  * [ozodrukh](https://github.com/ozodrukh/CircularReveal)
  * [coyarzun89](https://github.com/coyarzun89/FabTransitionActivity)
  * [Facebook - rebound](https://github.com/facebook/rebound)
+ * [Support by Rehan Kodekar](https://github.com/mkodekar)
  
  
  ## License
